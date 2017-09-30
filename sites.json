@@ -1,0 +1,8 @@
+{
+    "1" : {
+        "name"    : "DownForEveryoneOrJustMe",
+        "url"     : "http://www.downforeveryoneorjustme.com/",
+        "encoder" : "urllib.parse.quote_plus('{}')",
+        "regex"   : ".+\\<a.+\\> is (.+)\\."
+    }
+}
